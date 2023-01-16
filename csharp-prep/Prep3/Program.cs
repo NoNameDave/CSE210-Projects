@@ -20,6 +20,7 @@ class Program
             if (number == 7) 
             {
                 Console.WriteLine("You guessed it!");
+                break;
             }
             else if (number > 7)
             {
@@ -28,8 +29,11 @@ class Program
             else 
             {
                 Console.WriteLine("Guess Higher");
-            }
+            }           
         }
+
+        Console.Write("Would you like to play again? ");
+        input = Console.ReadLine();
 
     }
 }
