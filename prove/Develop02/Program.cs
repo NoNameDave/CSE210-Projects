@@ -4,22 +4,23 @@ class Program
 {
         static void Main(string[] args)
     {
+        Journal journal = new Journal();
         static int GetMenuOption()
         {
+        
         Console.WriteLine("1: Write");
         Console.WriteLine("2: Display");
         Console.WriteLine("3: Save");
         Console.WriteLine("4: Load");
         Console.WriteLine("5: Quit");
-        Console.WriteLine("What would you like to do? ");
+        Console.Write("What would you like to do? ");
         string choice = Console.ReadLine();
         int input = int.Parse(choice);
         return input;
         }
 
         Console.WriteLine("Welcome to my Journal Program!");
-        Write write = new Write();
-        Display display = new Display();
+
         int input = 0;
 
     do
@@ -29,15 +30,19 @@ class Program
 
         if (input == 1)
         {
-            write.ToString();
+            journal.AddEntry();
         }
         else if (input == 2)
         {
-            display.ToString();
+            journal.DisplayEntries();
         }
         else if (input == 3)
         {
-
+            journal.SaveEntries();
+        }
+        else if (input == 4)
+        {
+            journal.LoadFile();
         }
     }
     while (input != 5);
