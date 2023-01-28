@@ -1,0 +1,15 @@
+C:\Users\chisw\Desktop\CSE210\CSE210-Projects\csharp-prep\Prep1\bin\Debug\net7.0\Prep1.exe
+C:\Users\chisw\Desktop\CSE210\CSE210-Projects\csharp-prep\Prep1\bin\Debug\net7.0\Prep1.deps.json
+C:\Users\chisw\Desktop\CSE210\CSE210-Projects\csharp-prep\Prep1\bin\Debug\net7.0\Prep1.runtimeconfig.json
+C:\Users\chisw\Desktop\CSE210\CSE210-Projects\csharp-prep\Prep1\bin\Debug\net7.0\Prep1.dll
+C:\Users\chisw\Desktop\CSE210\CSE210-Projects\csharp-prep\Prep1\bin\Debug\net7.0\Prep1.pdb
+C:\Users\chisw\Desktop\CSE210\CSE210-Projects\csharp-prep\Prep1\obj\Debug\net7.0\Prep1.csproj.AssemblyReference.cache
+C:\Users\chisw\Desktop\CSE210\CSE210-Projects\csharp-prep\Prep1\obj\Debug\net7.0\Prep1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chisw\Desktop\CSE210\CSE210-Projects\csharp-prep\Prep1\obj\Debug\net7.0\Prep1.AssemblyInfoInputs.cache
+C:\Users\chisw\Desktop\CSE210\CSE210-Projects\csharp-prep\Prep1\obj\Debug\net7.0\Prep1.AssemblyInfo.cs
+C:\Users\chisw\Desktop\CSE210\CSE210-Projects\csharp-prep\Prep1\obj\Debug\net7.0\Prep1.csproj.CoreCompileInputs.cache
+C:\Users\chisw\Desktop\CSE210\CSE210-Projects\csharp-prep\Prep1\obj\Debug\net7.0\Prep1.dll
+C:\Users\chisw\Desktop\CSE210\CSE210-Projects\csharp-prep\Prep1\obj\Debug\net7.0\refint\Prep1.dll
+C:\Users\chisw\Desktop\CSE210\CSE210-Projects\csharp-prep\Prep1\obj\Debug\net7.0\Prep1.pdb
+C:\Users\chisw\Desktop\CSE210\CSE210-Projects\csharp-prep\Prep1\obj\Debug\net7.0\Prep1.genruntimeconfig.cache
+C:\Users\chisw\Desktop\CSE210\CSE210-Projects\csharp-prep\Prep1\obj\Debug\net7.0\ref\Prep1.dll

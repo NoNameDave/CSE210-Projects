@@ -1,0 +1,15 @@
+C:\Users\chisw\Desktop\CSE210-Projects\csharp-prep\Prep5\bin\Debug\net7.0\Prep5.exe
+C:\Users\chisw\Desktop\CSE210-Projects\csharp-prep\Prep5\bin\Debug\net7.0\Prep5.deps.json
+C:\Users\chisw\Desktop\CSE210-Projects\csharp-prep\Prep5\bin\Debug\net7.0\Prep5.runtimeconfig.json
+C:\Users\chisw\Desktop\CSE210-Projects\csharp-prep\Prep5\bin\Debug\net7.0\Prep5.dll
+C:\Users\chisw\Desktop\CSE210-Projects\csharp-prep\Prep5\bin\Debug\net7.0\Prep5.pdb
+C:\Users\chisw\Desktop\CSE210-Projects\csharp-prep\Prep5\obj\Debug\net7.0\Prep5.csproj.AssemblyReference.cache
+C:\Users\chisw\Desktop\CSE210-Projects\csharp-prep\Prep5\obj\Debug\net7.0\Prep5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chisw\Desktop\CSE210-Projects\csharp-prep\Prep5\obj\Debug\net7.0\Prep5.AssemblyInfoInputs.cache
+C:\Users\chisw\Desktop\CSE210-Projects\csharp-prep\Prep5\obj\Debug\net7.0\Prep5.AssemblyInfo.cs
+C:\Users\chisw\Desktop\CSE210-Projects\csharp-prep\Prep5\obj\Debug\net7.0\Prep5.csproj.CoreCompileInputs.cache
+C:\Users\chisw\Desktop\CSE210-Projects\csharp-prep\Prep5\obj\Debug\net7.0\Prep5.dll
+C:\Users\chisw\Desktop\CSE210-Projects\csharp-prep\Prep5\obj\Debug\net7.0\refint\Prep5.dll
+C:\Users\chisw\Desktop\CSE210-Projects\csharp-prep\Prep5\obj\Debug\net7.0\Prep5.pdb
+C:\Users\chisw\Desktop\CSE210-Projects\csharp-prep\Prep5\obj\Debug\net7.0\Prep5.genruntimeconfig.cache
+C:\Users\chisw\Desktop\CSE210-Projects\csharp-prep\Prep5\obj\Debug\net7.0\ref\Prep5.dll
