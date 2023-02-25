@@ -10,7 +10,7 @@ class Program
         Console.WriteLine("2. Start reflecting activity");
         Console.WriteLine("3. Start lisning activity");
         Console.WriteLine("4. Quit");
-        Console.Write("Select a choice from the menu: ");
+        Console.Write("Select a number from the menu to begin the activity: ");
         string userInput = Console.ReadLine();
         int input = int.Parse(userInput);
         return input;
