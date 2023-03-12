@@ -1,0 +1,2 @@
+0
+Simple Goal|Takeout|Eating takeout once a week.|50|False
