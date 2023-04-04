@@ -1,15 +1,27 @@
-public class LeaveTaken : Employee
+public class LeaveTaken : CalculateLeaveDays
 {
     public void TakeLeave(int days)
     {
-        if (days <= LeaveBalance)
+        List<Employee> employees = Employee.LoadFromFile(_fileName);
+
+        foreach (var item in employees)
         {
-            LeaveBalance -= days;
-            Console.WriteLine("{0} has taken {1} days of leave. {2} days of leave remaining.", Name, days, LeaveBalance);
-        }
-        else
-        {
-            Console.WriteLine("{0} does not have enough leave balance to take {1} days of leave.", Name, days);
+
+                // load existing employees from file
+            if (File.Exists("employee.txt"))
+            {
+
+                if (days <= item._leaveBalance)
+                {
+                    item._leaveBalance -= days;
+                    Console.WriteLine("{0} has taken {1} days of leave. {2} days of leave remaining.", item._name, days, item._leaveBalance);
+                    item.SaveToFile(_fileName);
+                }
+                else
+                {
+                    Console.WriteLine("{0} does not have enough leave balance to take {1} days of leave.", item._name, days);
+                }
+            }
         }
     }
 }
